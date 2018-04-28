@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: DressingRoomEnchantments
+## Author: Pyralis
+## Version: 1.0
+## Notes: Adds the ability to select and view weapon enchantments in the dressing room.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+DressingRoomEnchantments.lua
